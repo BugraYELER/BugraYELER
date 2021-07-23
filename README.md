@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bugra YELER</h1>
 <h3 align="center">4rd Grade Computer Engineering Student & Cyber Security Specialist</h3>
 
-- ⚡ I’m currently working on **Incident response, information security, intrusion detection systems, vulnerability scanning and automation of alerts and reports**.
+- ⚡ I’m currently working on **Turkish Airlines Technology Incident Response Team**.
 
 - 🔭 I’m currently learning **SIEM/Log Management & Vulnerability Assessment**.
 
