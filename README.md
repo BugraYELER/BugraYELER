@@ -8,27 +8,35 @@
 - 📝 I regularly write articles at [bugrayeler.medium](https://bugrayeler.medium.com/)
 
 - 💬 Ask me about <ul> 
-  **Cyber Security:**  <ul>
-    <li>Security Incident Response</li>
-    <li>Security Awareness </li>
-    <li>Web Application Security</li>
-    <li>Network Security</li>
-    <li>Penetration Testing</li>
-  	<br>
-  </ul>
+ <details>
+  <summary>Cyber Security</summary>
 
-    
-  **Machine Learning:** <ul>
-    <li>Support Vector Machine (SVM)</li>
-    <li>Artificial Neural Networks (ANN)</li>
-    <br>
-  </ul>
+  * Security Incident Response
+  * Security Awareness
+  * Web Application Security
+  * Network Security
+  * Penetration Testing
   
-  **Programming Languages:** <ul>
-    <li>C / C++</li>
-    <li>Python</li>
-   
-  </ul>
+</details>
+ 
+<details>
+ <summary>Machine Learning</summary>
+
+  * Support Vector Machine (SVM)
+  * Artificial Neural Networks (ANN)
+ 
+</details>
+ 
+<details>
+ <summary>Programming Languages</summary>
+
+  * C / C++
+  * Python
+ 
+</details>
+
+  
+    
 </ul>
 
 
