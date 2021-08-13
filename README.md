@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bugra YELER</h1>
+<h1 align="center">Hi 👋, I'm Bugra YELER </h1> 
 <h3 align="center">4rd Grade Computer Engineering Student & Cyber Security Specialist</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=BugraYELER" alt="BugraYELER" /> </p>
+
 
 - ⚡ I’m currently working on **Turkish Airlines Technology**.
 
@@ -9,11 +11,11 @@
  <details>
   <summary>My Articles</summary><br>
   
-  * [How to Tell the Difference that Vulnerability, Threat, or Risk? (English)](https://bugrayeler.medium.com/how-to-tell-the-difference-that-vulnerability-threat-or-risk-4a96117f8f26) 
-  * [Hackthebox CAP Machine Walkthrough (English)](https://bugrayeler.medium.com/cap-htb-walkthrough-eb4de1f1fbe4)
-  * [Support Vector Machine (English)](https://bugrayeler.medium.com/support-vector-machine-b8b7b1b9cd99)
-  * [Hackthebox KNIFE Machine Walkthrough (English)](https://bugrayeler.medium.com/knife-htb-walkthrough-e645e78e3494)
-  * [NMAP (Turkish)](https://bugrayeler.medium.com/nmap-f3809316c907)
+  * [How to Tell the Difference that Vulnerability, Threat, and Risk?](https://bugrayeler.medium.com/how-to-tell-the-difference-that-vulnerability-threat-or-risk-4a96117f8f26) 
+  * [Hackthebox CAP Machine Walkthrough](https://bugrayeler.medium.com/cap-htb-walkthrough-eb4de1f1fbe4)
+  * [Support Vector Machine](https://bugrayeler.medium.com/support-vector-machine-b8b7b1b9cd99)
+  * [Hackthebox KNIFE Machine Walkthrough](https://bugrayeler.medium.com/knife-htb-walkthrough-e645e78e3494)
+  * [NMAP](https://bugrayeler.medium.com/nmap-f3809316c907)
  </details>
  </ul>
 
@@ -23,11 +25,12 @@
   <summary>Cyber Security</summary><br>
 
   * Security Incident Response
-  * Security Awareness
+  * Security Research
+  * Vulnerability Assessment
   * Web Application Security
   * Network Security
   * Penetration Testing
-  
+   
 </details>
  
 <details>
