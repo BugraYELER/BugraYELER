@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bugra YELER </h1> 
-<h3 align="center">Security Researcher & Cyber Security Specialist & 4rd Grade Computer Engineering Student</h3>
+<h3 align="center">Security Researcher & Incident Responder & 4rd Grade Computer Engineering Student</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=BugraYELER" alt="BugraYELER" /> </p>
 
 
