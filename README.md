@@ -3,7 +3,9 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=BugraYELER" alt="BugraYELER" /> </p>
 
 
-- ⚡ I’m currently working on **Turkish Airlines Technology**.
+<!-- - ⚡ I’m currently working on **Turkish Airlines Technology**.
+
+-->
 
 - 🔭 I’m currently learning **SIEM/Log Management & Vulnerability Assessment**.
 
