@@ -13,6 +13,7 @@
  <details>
   <summary>My Articles</summary><br>
   
+  * [Word2vec Algorithm](https://medium.com/@bugrayeler/word2vec-algorithm-6b2956953d77)
   * [Report of Hacking Groups Targeting the Aerospace Industry](https://github.com/BugraYELER/Report-of-Hacking-Groups-Targeting-the-Aerospace-Industry)
   * [How to Tell the Difference that Vulnerability, Threat, and Risk?](https://bugrayeler.medium.com/how-to-tell-the-difference-that-vulnerability-threat-or-risk-4a96117f8f26) 
   * [Hackthebox CAP Machine Walkthrough](https://bugrayeler.medium.com/cap-htb-walkthrough-eb4de1f1fbe4)
