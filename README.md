@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bugra YELER </h1> 
-<h3 align="center">Security Researcher & Incident Responder & 4rd Grade Computer Engineering Student</h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=BugraYELER" alt="BugraYELER" /> </p>
+<h3 align="center">Cyber Security Engineer</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=BugraYELER" alt="BugraYELER" /> 
+
 
 
 <!-- - ⚡ I’m currently working on **Turkish Airlines Technology**.
@@ -9,7 +10,21 @@
 
 - 🔭 I’m currently learning **SIEM/Log Management & Vulnerability Assessment**.
 
-- 📝 I regularly write articles at [bugrayeler.medium](https://bugrayeler.medium.com/) <ul>
+- 👨‍💻 I have Youtube channel that discusses security related topics at [YLRSec.Youtube](https://www.youtube.com/channel/UCTuePA6qPFQGPKNfeBcMIBg)<br><br>
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTuePA6qPFQGPKNfeBcMIBg?style=social)
+ <ul>
+ <details>
+  <summary>List of my Videos </summary>
+  
+  * [SQL Injection @ Web Security Academy](https://youtube.com/playlist?list=PLojksLTZaOPwVyT5uS0q_jHVmtku0mNGy)
+  * [Directory Traversal @ Web Security Academy](https://youtube.com/playlist?list=PLojksLTZaOPwtzSowiMWWClHXPIpL5xfS)
+ 
+  
+ </details>
+ </ul>
+
+
+- 📝 I regularly write articles at [bugrayeler.medium](https://bugrayeler.medium.com/) <ul><br>
  <details>
   <summary>My Articles</summary><br>
   
@@ -60,10 +75,13 @@
 
 <h2><h3 align="center">Connect with me:</h3></h2>
 <p align="center">
-  <a href="https://twitter.com/YelerBugra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_omerfg" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/yelerbugra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omerfarukgunes" height="30" width="40" /></a>
-  <a href="https://bugrayeler.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="omerfarukgunes" height="30" width="40" /></a>
-  <a href="https://leetcode.com/bugra_yeler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asdfdsafds" height="30" width="40" /></a>
+  <a href="https://twitter.com/YelerBugra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/yelerbugra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://bugrayeler.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
+  <a href="https://leetcode.com/bugra_yeler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCTuePA6qPFQGPKNfeBcMIBg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="50" width="45" /></a>
+
+
 </p>
 </p>
 
@@ -96,4 +114,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<a href="https://www.youtube.com/channel/UCTuePA6qPFQGPKNfeBcMIBg">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a> 
 -->
