@@ -96,6 +96,12 @@
 
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Google Dino Hack](https://ytcards.demolab.com/?id=SMJpk3RhxxQ&title=Google+Dino+Hack&lang=en&timestamp=1664054159&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Google Dino Hack")](https://www.youtube.com/watch?v=SMJpk3RhxxQ)
+[![OS Command Injection - Lab #3 Blind OS command injection with output redirection](https://ytcards.demolab.com/?id=0z_-YPq5PnA&title=OS+Command+Injection+-+Lab+%233+Blind+OS+command+injection+with+output+redirection&lang=en&timestamp=1663077601&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "OS Command Injection - Lab #3 Blind OS command injection with output redirection")](https://www.youtube.com/watch?v=0z_-YPq5PnA)
+[![OS Command Injection - Lab #2 Blind OS command injection with time delays](https://ytcards.demolab.com/?id=aCqgcI9JBjQ&title=OS+Command+Injection+-+Lab+%232+Blind+OS+command+injection+with+time+delays&lang=en&timestamp=1662991200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "OS Command Injection - Lab #2 Blind OS command injection with time delays")](https://www.youtube.com/watch?v=aCqgcI9JBjQ)
+[![OS Command Injection - Lab #1 OS command injection, simple case](https://ytcards.demolab.com/?id=3VwRWzaqU0g&title=OS+Command+Injection+-+Lab+%231+OS+command+injection%2C+simple+case&lang=en&timestamp=1662645604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "OS Command Injection - Lab #1 OS command injection, simple case")](https://www.youtube.com/watch?v=3VwRWzaqU0g)
+[![XSS - Lab #5 DOM XSS in jQuery anchor href attribute sink using location.search source](https://ytcards.demolab.com/?id=wwbo-_-QemY&title=XSS+-+Lab+%235+DOM+XSS+in+jQuery+anchor+href+attribute+sink+using+location.search+source&lang=en&timestamp=1662559236&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "XSS - Lab #5 DOM XSS in jQuery anchor href attribute sink using location.search source")](https://www.youtube.com/watch?v=wwbo-_-QemY)
+[![XSS - Lab #4 DOM XSS in innerHTML sink using source location.search](https://ytcards.demolab.com/?id=AX_xGnSgrYw&title=XSS+-+Lab+%234+DOM+XSS+in+innerHTML+sink+using+source+location.search&lang=en&timestamp=1662472807&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "XSS - Lab #4 DOM XSS in innerHTML sink using source location.search")](https://www.youtube.com/watch?v=AX_xGnSgrYw)
 <!-- END YOUTUBE-CARDS -->
 
 
