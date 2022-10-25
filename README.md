@@ -10,23 +10,12 @@
 
 - 🔭 I’m currently learning **SIEM/Log Management & Vulnerability Assessment**.
 
-- 👨‍💻 I have Youtube channel that discusses security related topics at [YLRSec.Youtube](https://www.youtube.com/channel/UCTuePA6qPFQGPKNfeBcMIBg)<br><br>
+- 👨‍💻 I have Youtube channel that discusses security related topics <br><br>
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTuePA6qPFQGPKNfeBcMIBg?style=social)
- <ul>
- <details>
-  <summary>List of my Videos </summary>
-  
-  * [SQL Injection @ Web Security Academy](https://youtube.com/playlist?list=PLojksLTZaOPwVyT5uS0q_jHVmtku0mNGy)
-  * [Directory Traversal @ Web Security Academy](https://youtube.com/playlist?list=PLojksLTZaOPwtzSowiMWWClHXPIpL5xfS)
- 
-  
- </details>
- </ul>
 
-
-- 📝 I regularly write articles at [bugrayeler.medium](https://bugrayeler.medium.com/) <ul><br>
+- 📝 I regularly write articles at [bugrayeler.medium](https://bugrayeler.medium.com/) <ul>
  <details>
-  <summary>My Articles</summary><br>
+  <summary>My Articles</summary>
   
   * [Word2vec Algorithm](https://medium.com/@bugrayeler/word2vec-algorithm-6b2956953d77)
   * [Report of Hacking Groups Targeting the Aerospace Industry](https://github.com/BugraYELER/Report-of-Hacking-Groups-Targeting-the-Aerospace-Industry)
@@ -100,6 +89,15 @@
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
+
+
+<h2><h3 align="center">📺 Latest YouTube Videos</h3></h2>
+<p align="center">
+
+
+
+
+
 
 <!--
 **BugraYELER/BugraYELER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
